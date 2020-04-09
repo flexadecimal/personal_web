@@ -5,9 +5,11 @@
 layout: home
 ---
 
-Q: Cool site. Can I have one like this?
+This is the website of me, Henry Post, and it has my work experience, personal projects, and general info about me.
 
-A: Yes! Clone <http://github.com/HenryFBP/henryFBP.github.io> and just edit it and reupload it to GitHub!
+I'm a Security Analyst at U.S. Bank, Illinois Institute of Technology alumni, and used to work as a private tutor for Python, Java, and web development.
 
-See [this link](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll#creating-a-repository-for-your-site) for more info.
-    
+In my free time I like to bake, go cycling, play video games, and scuba dive (if I have enough time).
+
+Check out [my GitHub](https://github.com/HenryFBP/) for code that I make, and message me if you'd like to get tutored on something or have any questions.
+

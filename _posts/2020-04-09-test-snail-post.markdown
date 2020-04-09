@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "test snail :)"
+title:  "test snail post"
 date:   2020-04-09 13:30:07 -0500
 categories: test
 ---

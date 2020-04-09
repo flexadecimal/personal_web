@@ -6,10 +6,13 @@ permalink: /projects/
 
 TODO add markdown and images
 
-Using Big Data Analytics & Visualization: Improving Preparedness & Responsiveness to Fire Emergencies & Other Disasters
+## Using Big Data Analytics & Visualization: Improving Preparedness & Responsiveness to Fire Emergencies & Other Disasters
+
 This was an Inter-professional Project (IPRO) that took place at Illinois Institute of Technology that involved creating a suite of tools which aided the American Red Cross of Chicago in detecting, analyzing, and responding to fire-related disasters that people report on Twitter in the Chicago-land area.
 
-The Git repository associated with this IPRO is here: https://github.com/raaraa/IPRO497-Analytics-Team/ 
+The Git repository associated with this IPRO is below.
+
+<https://github.com/raaraa/IPRO497-Analytics-Team/>
 
 [TODO whitepaper link!]
 

@@ -4,7 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-	
+## LinkedIn
+
+<https://www.linkedin.com/in/henryfbp/>
+
 ## Personal Email
     HenryFBP [at] g/m/a/i/l [dot] c.o.m
 
