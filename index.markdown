@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Q: Cool site. Can I have one like this?
+Q: Cool site. Can I have one like this?
 
 A: Yes! Clone <http://github.com/HenryFBP/henryFBP.github.io> and just edit it and reupload it to GitHub!
 
