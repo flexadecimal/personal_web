@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-TODO: format, clean up, add US Bank experience.
+# TODO: format in markdown, clean up, add US Bank experience.
 	
 Henry Post
 
