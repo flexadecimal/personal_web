@@ -27,10 +27,16 @@ Nature is something I love, and camping is super relaxing for me.
 
 ## Video Games
 
+### Minecraft 
+
 Minecraft is likely my most-played game, with over 1,500 hours.
 
 Factorio, Terraria, and other derivatives are stuff I love.
 
+### FPS
+
 I also adore the Doom (DOS esp.) series and Castlevania (GBA games!).
+
+### Fighting
 
 Super Smash Brothers is great too.
