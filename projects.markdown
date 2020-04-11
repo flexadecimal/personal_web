@@ -18,13 +18,13 @@ There is also a package on the Python Package Index (PyPI).
 
 ### Whitepaper
 
-[You can read the whitepaper produced for this project by clicking here.](/files/Twitter_Scraper_Chicago_Fire_FINAL_2.pdf)
+[You can read the whitepaper produced for this project by clicking here.](/static/files/Twitter_Scraper_Chicago_Fire_FINAL_2.pdf)
 
 ### Awards
 
 We won both Dean's Choice and Best in Track for a total of two awards.
 
-<img src="/images/awards-tfs.jpg" width="1175">
+<img src="/static/images/awards-tfs.jpg" width="1175">
 
 ## OPAC Library Reference PC Replacement
 

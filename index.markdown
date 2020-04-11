@@ -13,4 +13,4 @@ In my free time I like to bake, go cycling, play video games, and scuba dive (if
 
 Check out [my GitHub](https://github.com/HenryFBP/) for code that I make, and message me if you'd like to get tutored on something or have any questions.
 
-<img src="images/headshot.jpg" alt="A headshot of me." width="200px"/>
+<img src="/static/images/headshot.jpg" alt="A headshot of me." width="200px"/>
