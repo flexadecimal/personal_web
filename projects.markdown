@@ -18,9 +18,8 @@ There is also a package on the Python Package Index (PyPI).
 
 ### Whitepaper
 
-You can read the whitepaper at the below link.
-
-<https://github.com/HenryFBP/IPRO497-Analytics-Team/blob/master/Documents/research/Twitter_Scraper_Chicago_Fire_FINAL_2.pdf>
+<a href="/files/Twitter_Scraper_Chicago_Fire_FINAL_2.pdf">You can read the whitepaper produced for this project by
+clicking here.</a>
 
 ### Awards
 
