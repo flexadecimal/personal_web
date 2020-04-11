@@ -27,6 +27,12 @@ We won both Dean's Choice and Best in Track for a total of two awards.
 
 <img src="/images/awards-tfs.jpg" width="1175">
 
+## OPAC Library Reference PC Replacement
+
+During my work at OBPL, ...
+
+TODO: Finish this section and provide some configuration files too!
+
 ## Arduino Soil Tester
 This was a small project undertaken for a club that I went to in Highschool called "Dirt Actualizers." The project consisted of a breadboard, an arduino, 3 wires, and 2 resistors. It was a very simple soil moisture sensor that worked by pulsing AC through its probes and measuring the average of readings. It just has to be calibrated on its lowest (open circuit) and highest (probes touching) bounds, and it's ready to sense moisture!
 
