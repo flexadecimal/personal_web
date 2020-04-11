@@ -4,25 +4,29 @@ title: Projects
 permalink: /projects/
 ---
 
-TODO add markdown and images
-
 ## Using Big Data Analytics & Visualization: Improving Preparedness & Responsiveness to Fire Emergencies & Other Disasters
 
 This was an Inter-professional Project (IPRO) that took place at Illinois Institute of Technology that involved creating a suite of tools which aided the American Red Cross of Chicago in detecting, analyzing, and responding to fire-related disasters that people report on Twitter in the Chicago-land area.
 
 The Git repository associated with this IPRO is below.
 
-<https://github.com/raaraa/IPRO497-Analytics-Team/>
+<https://github.com/HenryFBP/IPRO497-Analytics-Team/>
 
 There is also a package on the Python Package Index (PyPI).
 
 <https://pypi.org/project/twitter-fire-scraper/>
 
-[TODO whitepaper link!]
+### Whitepaper
 
-[TODO research paper link!]
+You can read the whitepaper at the below link.
+
+<https://github.com/HenryFBP/IPRO497-Analytics-Team/blob/master/Documents/research/Twitter_Scraper_Chicago_Fire_FINAL_2.pdf>
+
+### Awards
 
 We won both Dean's Choice and Best in Track for a total of two awards.
+
+<img src="/images/awards-tfs.jpg" width="1175">
 
 ## Arduino Soil Tester
 This was a small project undertaken for a club that I went to in Highschool called "Dirt Actualizers." The project consisted of a breadboard, an arduino, 3 wires, and 2 resistors. It was a very simple soil moisture sensor that worked by pulsing AC through its probes and measuring the average of readings. It just has to be calibrated on its lowest (open circuit) and highest (probes touching) bounds, and it's ready to sense moisture!
