@@ -32,8 +32,25 @@ Over the summer, while working in Massachusetts for Oak Bluff Public Library, I 
 
 I also have created [somewhat extensive documentation and support material](TODO! You need to upload this!) on how to troubleshoot and maintain the system I had created. I was shortly contacted by Falmouth Public Library and replaced 12 of their PCs with Raspberry Pis!
 
+
+### Packer
+
+Packer is a tool for creating OS images that can be built reliably. Something such as installing MySQL on Linux and 
+running that in a virtual machine can be tedious and annoying to do manually.
+
+I have a collection of Packer files below.
+
+<https://github.com/HenryFBP/VagrantPackerFiles/>
+
 ### Vagrant
-TODO bunch of linux/windows provisioning stuff, show github repos
+
+Vagrant is a tool for managing and building virtual machines in an automated fashion.
+
+I use Vagrant for setting up penetrable and pentesting boxes.
+
+I maintain a collection of Vagrant files that can be used for pentesting, testing Windows software, etc.
+
+<https://github.com/HenryFBP/VagrantPackerFiles/>
 
 ### Python
 Python is my most popular subject that I tutor, and it is one of my most strong language skills.
