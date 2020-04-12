@@ -36,7 +36,8 @@ Apache Tomcat application that I wrote. ZIP files of this project can be provide
 a private repository.
 
 Over the summer, while working in Massachusetts for [Oak Bluff Public Library](https://oakbluffslibrary.org/), I have
-replaced their aging reference PCs with low-cost custom Raspberry Pis equipped with restricted desktop environments and an open-source proxy (Privoxy).
+replaced their aging reference PCs with low-cost custom Raspberry Pis equipped with restricted desktop environments and
+an open-source proxy (Privoxy).
 
 I also have created [extensive documentation and support material](/projects/#opac-library-reference-pc-replacement) 
 on how to troubleshoot and maintain the system I had created. I was shortly contacted by Falmouth Public Library and 
@@ -119,7 +120,7 @@ Using "Tensorflow Lite", I was able to load a Tensorflow Lite graph object onto 
 classification.
 
 ### JavaScript
-I have done some basic JavaScript for [GitHub API queries and DOM element population from JSON callbacks](https://www.google.com/url?q=https%3A%2F%2Fhenryfbp-me.herokuapp.com%2Fgithub%2F&sa=D&sntz=1&usg=AFQjCNETnvLKKX9Fv4N8rHTvKObdz6NfyA).
+I have done some basic JavaScript for [GitHub API queries and DOM element population from JSON callbacks](https://henryfbp-me.herokuapp.com/github/).
 
 ## Strengths & Weaknesses
 ### Strengths
