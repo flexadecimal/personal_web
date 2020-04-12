@@ -12,7 +12,8 @@ This section is a detailed breakdown of my skills and knowledge. A resume for pe
 ### Teaching
 I have worked as a tutor for around 3 years, 2 years for my school, IIT, and 1 as a private tutor.
 
-While working either position, I was tasked with meeting with people, talking about homewo
+While working either position, I was tasked with meeting with people, talking about homework, breaking down assignments,
+and teaching people how to complete their assignments.
 
 ### Working with kids
 I work as a [private tutor on Wyzant](https://www.wyzant.com/Tutors/HenryFBP) and have had experience tutoring kids online and in-person.
