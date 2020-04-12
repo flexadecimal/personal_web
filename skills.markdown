@@ -35,16 +35,11 @@ An example of this is a '[Vagrant](https://www.vagrantup.com/)file' including se
 Apache Tomcat application that I wrote. ZIP files of this project can be provided upon request as this code resides in
 a private repository.
 
-Over the summer, while working in Massachusetts for Oak Bluff Public Library, I have replaced their aging reference PCs
-with low-cost custom Raspberry Pis equipped with restricted desktop environments and an open-source proxy (Privoxy).
+Over the summer, while working in Massachusetts for [Oak Bluff Public Library](https://oakbluffslibrary.org/), I have
+replaced their aging reference PCs with low-cost custom Raspberry Pis equipped with restricted desktop environments and an open-source proxy (Privoxy).
 
-I also have created 
-
-# [extensive documentation and support material]
-# (TODO! You need to upload this!) 
-
-on how to
-troubleshoot and maintain the system I had created. I was shortly contacted by Falmouth Public Library and replaced 12
+I also have created [extensive documentation and support material](/projects/#opac-library-reference-pc-replacement) 
+on how to troubleshoot and maintain the system I had created. I was shortly contacted by Falmouth Public Library and replaced 12
 of their PCs with Raspberry Pis!
 
 

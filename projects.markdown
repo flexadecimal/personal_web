@@ -18,17 +18,20 @@ There is also a package on the Python Package Index (PyPI).
 
 ### Whitepaper
 
-[You can read the whitepaper produced for this project by clicking here.](/static/files/Twitter_Scraper_Chicago_Fire_FINAL_2.pdf)
+[You can read the whitepaper produced for this project by clicking here.](/_static/files/Twitter_Scraper_Chicago_Fire_FINAL_2.pdf)
 
 ### Awards
 
 We won both Dean's Choice and Best in Track for a total of two awards.
 
-<img src="/static/images/awards-tfs.jpg" width="1175">
+<img src="/_static/images/awards-tfs.jpg" width="1175">
 
 ## OPAC Library Reference PC Replacement
 
-During my work at OBPL, ...
+During my work at OBPL as a librarian, I was involved with a program to replace about 6 or so computers that were very
+old. The only purpose these new computers would serve would be to provide access to a book catalogue website, nothing else.
+
+
 
 TODO: Finish this section and provide some configuration files too!
 
