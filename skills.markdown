@@ -38,7 +38,12 @@ a private repository.
 Over the summer, while working in Massachusetts for Oak Bluff Public Library, I have replaced their aging reference PCs
 with low-cost custom Raspberry Pis equipped with restricted desktop environments and an open-source proxy (Privoxy).
 
-I also have created [extensive documentation and support material](TODO! You need to upload this!) on how to
+I also have created 
+
+# [extensive documentation and support material]
+# (TODO! You need to upload this!) 
+
+on how to
 troubleshoot and maintain the system I had created. I was shortly contacted by Falmouth Public Library and replaced 12
 of their PCs with Raspberry Pis!
 
