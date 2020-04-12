@@ -39,8 +39,8 @@ Over the summer, while working in Massachusetts for [Oak Bluff Public Library](h
 replaced their aging reference PCs with low-cost custom Raspberry Pis equipped with restricted desktop environments and an open-source proxy (Privoxy).
 
 I also have created [extensive documentation and support material](/projects/#opac-library-reference-pc-replacement) 
-on how to troubleshoot and maintain the system I had created. I was shortly contacted by Falmouth Public Library and replaced 12
-of their PCs with Raspberry Pis!
+on how to troubleshoot and maintain the system I had created. I was shortly contacted by Falmouth Public Library and 
+replaced 12 of their PCs with Raspberry Pis!
 
 
 ### Packer
@@ -91,7 +91,7 @@ few years ago.
 
 I am very acquainted with Java.
 
-I am an avid Minecraft player and probably have over 1,500 hours. Seriously.
+I am an avid Minecraft player and probably have over 4000 hours!
 
 I understand the worldgen steps somewhat, and am familiar with the Block ID registration system, enums as block
 properties, and some other Forge concepts like pre-init, init, and post-init.
