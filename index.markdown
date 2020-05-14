@@ -4,13 +4,10 @@
 
 layout: home
 ---
-
-This is the website of me, Henry Post, and it has my work experience, personal projects, and general info about me.
-
-I'm a Security Analyst at U.S. Bank, Illinois Institute of Technology alumni, and used to work as a private tutor for Python, Java, and web development.
-
-In my free time I like to bake, go cycling, play video games, and scuba dive (if I have enough time).
-
-Check out [my GitHub](https://github.com/HenryFBP/) for code that I make, and message me if you'd like to get tutored on something or have any questions.
-
 <img src="/static/images/headshot.jpg" alt="A headshot of me." width="200px"/>
+
+Hello! I'm David Kotaev, welcome to my website. I'm currently a student in Computer Science at the [New Jersey Institute of Technology](https://www.njit.edu/).
+
+I am first and foremost a programmer - code I have written is on my [GitHub](https://github.com/flexadecimal). I have a particular love for Python, particularly in applications to data processing and data science.
+
+I am also a serial hobbyist - in the blog, you will find posts about electronics (board assembly, wiring harness restoration, etc.), music (listening, production) and all sorts of things I find interesting.

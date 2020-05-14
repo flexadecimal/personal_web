@@ -4,39 +4,31 @@ title: Interests
 permalink: /interests/
 ---
 
-## Recreation
+## Automotive
 
-I like to run and swim in my free time, and (rarely) will scuba dive.
+I have a long and storied history of buying the same 30 year old Swedish cars. Like your average car guy, I enjoy doing my own maintenance and repairs, at least until a bolt snaps...
 
-I cycle more now than running, as it's more convenient.
-
-Baking treats is another hobby of mine, and I like to give treats to my friends and family when I can.
-
-Nature is something I love, and camping is super relaxing for me.
+<img src="/static/images/volvo740turbo.jpg" alt="1987 Volvo 740 Turbo"/>
+_One of my past cars - 1987 Volvo 740 Turbo, unfortunately junked._
 
 ## Music
+### Listening
+I enjoy listening to all sorts of music, but my favorite genres are usually related to these:
 
-- Death Grips
-- Venetian Snares
-- FFF
-- Lauren Bousfield
-- Off Me Nut
-- Cardopusher
-- Spongebob Squarewave
-- **Hundreds** of other artists -- see <https://bandcamp.com/henryfbp>.
+* Jazz/R&B (acid jazz, jazz fusion, smooth jazz, etc.)
+  - e.g. Casiopea, Grover Washington Jr., Marcus Miller, The Brand New Heavies, Lonnie Liston Smith, etc.
+* House (acid house, club, garage, and derivatives)
+  - e.g. Kerri Chandler, Daft Punk, labels like Strictly Rhythm
+* More elcletic eletronic (drum and bass, jungle, ambient)
+  - e.g. Adam F, Goldie, and other assorted artists.
+  
+### Production
+I use [Renoise](https://www.renoise.com/), a DAW (digital audio workstation) whose lineage can be traced back to early computing days to the Amiga 500 computer and Protracker (hence the name for the family of programs, "trackers").
 
-## Video Games
+<img src="/static/images/renoise.png" alt="Renoise"/>
+_Renoise and its vertical "tracker"-style interface._
 
-### Minecraft 
-
-Minecraft is likely my most-played game, with over 1,500 hours.
-
-Factorio, Terraria, and other derivatives are stuff I love.
-
-### FPS
-
-I also adore the Doom (DOS esp.) series and Castlevania (GBA games!).
-
-### Fighting
-
-Super Smash Brothers is great too.
+It might initially seem like an odd choice considering its unusual vertical scrolling layout, but like most "power tools", it is keyboard heavy and very effective in spite of its high learning curve.
+ 
+### Hi-Fi
+I am a big fan of oldschool stereo equipment - seperates like pre-amplifiers, amplifiers, turntables, cassette decks, and related equipment. I have restored turntables and done proper needle adjustment. I currently have a Technics SL-1400, the little brother to the iconic SL-1200, waiting for a good cleaning and new cartridge.
