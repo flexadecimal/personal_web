@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="/static/images/headshot.jpg" alt="A headshot of me." width="200px"/>
+<img src="{{site.url}}{{site.baseurl}}/static/images/headshot.jpg" alt="A headshot of me." width="200px"/>
 
 Hello! I'm David Kotaev, welcome to my website. I'm currently a student in Computer Science at the [New Jersey Institute of Technology](https://www.njit.edu/).
 
