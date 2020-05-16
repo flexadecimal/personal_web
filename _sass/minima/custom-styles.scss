@@ -7,17 +7,25 @@
 .dataframe tbody tr th:only-of-type {
   vertical-align: middle;
 }
-
 .dataframe tbody tr th {
   vertical-align: top;
 }
-
 .dataframe thead th {
-  text-align: left;
+  text-align: center;
 }
-  
-.dataframe {
-  width: 100%;
+.dataframe td {
+  text-align: center;
+}
+
+/* tight tables */
+table { 
+  font-size: small;
+}
+table th, table td {
+  padding: 1px 4px;
+}
+.half {
+  width: 50%;
 }
 
 /* table of contents styling */
@@ -45,7 +53,8 @@ figure {
   border-color: $border-color-02;
 }
 figure img {
-  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 figure figcaption {
   font-style: italic;

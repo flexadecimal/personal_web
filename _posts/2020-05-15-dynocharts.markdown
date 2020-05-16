@@ -138,7 +138,6 @@ trials.head()
     </tr>
   </tbody>
 </table>
-
 ### Supporting code - statistical functions and mod filtering
 Definitions have been ommitted for brevity.
 ```python
@@ -443,7 +442,7 @@ display(td04_avg_maxlag.head(top))
 print_df_summary(q_summary_dataframe(td04, 'max_jump'))
 ```
 Top 10 td04 turbos:
-<table border="1" class="dataframe">
+<table border="1" class="dataframe half">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -516,7 +515,7 @@ print('Top 10 td05 turbos:')
 display(td05_avg_maxlag.head(top))
 ```
 Top 10 td05 turbos:
-<table border="1" class="dataframe">
+<table border="1" class="dataframe half">
   <thead>
     <tr style="text-align: right;">
       <th></th>

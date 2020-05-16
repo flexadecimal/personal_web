@@ -56,6 +56,8 @@ plugins:
 
 exclude:
   - static/*.md
+  - Gemfile
+  - Gemfile.lock
   
 # simple slug permalink structure:
 permalink: /:collection/:slug:output_ext
