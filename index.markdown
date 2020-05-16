@@ -1,10 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Welcome!
 layout: home
 ---
-
+<h1>Welcome!</h1>
 <img id="headshot" src="{{site.url}}{{site.baseurl}}/static/images/headshot.jpg" alt="A headshot of me."/>
 Hello! I'm David Kotaev, welcome to my website. I'm currently a student in Computer Science at the [New Jersey Institute of Technology](https://www.njit.edu/).
 
