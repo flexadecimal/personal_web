@@ -56,8 +56,8 @@ plugins:
 exclude:
   - static/*.md
   
-# simple permalink structure:
-permalink: /blog/:slug  
+# simple slug permalink structure:
+permalink: /blog/:slug:output_ext
 
 # for katex math
 markdown: kramdown
