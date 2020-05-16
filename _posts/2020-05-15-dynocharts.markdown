@@ -31,7 +31,7 @@ The dyno charts in this project were sourced from [Dymomite!](http://www.primary
 
 ## What's the data look like?
 A dyno trial consists of:
-  - run data: (x, y) points represneting the dyno chart horsepower and torque functions, e.g. ```[{'x': 2510, 'y': 53}, {'x': 2921, 'y': 107}]```
+  - run data: (x, y) points representing the dyno chart horsepower and torque functions, e.g. ```[{'x': 2510, 'y': 53}, {'x': 2921, 'y': 107}]```
   - a mods dictionary: describes the modifications the car has, with mods as keys and values as specification, e.g. ```{'turbo_class': 'td04', 'turbo_name': '17g'}```
   - associated metadata, e.g. forum username
 
@@ -206,7 +206,7 @@ Strictly speaking, the gradient is a _list_ of values, so not an aggregate funct
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tangent_to_a_curve.svg/500px-Tangent_to_a_curve.svg.png" alt="Derivative"/>
   <figcaption>The derivative at a point, a.k.a the "tangent" line.</figcaption>
 </figure>
-Technically speaking, the derivative is the instantenous rate of change. The commonly-used physics example is that speed is the derivative of position, and acceleration is the derivative of speed. 
+Technically speaking, the derivative is the instantaneous rate of change. The commonly-used physics example is that speed is the derivative of position, and acceleration is the derivative of speed. 
 
 In our application, the derivative at any point of a horsepower curve is the the measure of how much the power delivery is changing at that instant RPM.
 
@@ -327,6 +327,8 @@ Total power over each run has been calculated. For a fair comparison, filter out
 - **same boost level** (either naturally aspirated/no turbo (0 boost) or most common, e.g. 20 psi - more boost means more power)
 - **similar displacement** higher displacement means more power. Filter by similar ranges, e.g. [3.0, 3.1] or [3.5, 3.7].
 
+On the topic of displacement, the range of 3.0 to 3.3 liters was chosen arbitrarily based on inspection of the data. The data set concerns a family of mechanically similar models - if the input data were of different cars, you might want a tighter range, say [3.0-3.05] liters, for a more stringent comparison.
+
 ...then group by the fuel type. For each group, find the ratio of total power over fuel cost per gallon. The highest ratio will be the most powerful fuel per dollar.
 ```python
 gas_prices = {
@@ -385,7 +387,7 @@ plot.show()
 </figure>
 
 ### *Which of the 10 most popular turbochargers has the least lag?*
-Turbochager lag is the "bump" in power delivery when boost kicks in. Looking at dyno charts, you can intuitively see the lag as those runs where are big "bumps" in the horsepower curve. To get the list of "bumps" in power delivery, we use the gradient from above!
+Turbocharger lag is the "bump" in power delivery when boost kicks in. Looking at dyno charts, you can intuitively see the lag as those runs where are big "bumps" in the horsepower curve. To get the list of "bumps" in power delivery, we use the gradient from above!
 
 The max element in the gradient is the maximum 'jump' - the max of the gradient for each comparable run will be the quantitative measure of turbo lag.
 
@@ -444,60 +446,49 @@ print_df_summary(q_summary_dataframe(td04, 'max_jump'))
 Top 10 td04 turbos:
 <table border="1" class="dataframe half">
   <thead>
-    <tr style="text-align: right;">
-      <th></th>
+    <tr>
       <th>turbo</th>
       <th>max_jump</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>5</td>
       <td>9b</td>
       <td>0.100383</td>
     </tr>
     <tr>
-      <td>11</td>
       <td>gt357</td>
       <td>0.102240</td>
     </tr>
     <tr>
-      <td>0</td>
       <td>13g</td>
       <td>0.122219</td>
     </tr>
     <tr>
-      <td>6</td>
       <td>dr500</td>
       <td>0.141276</td>
     </tr>
     <tr>
-      <td>13</td>
       <td>phantoms</td>
       <td>0.148665</td>
     </tr>
     <tr>
-      <td>3</td>
       <td>17g</td>
       <td>0.166835</td>
     </tr>
     <tr>
-      <td>7</td>
       <td>dr650</td>
       <td>0.178770</td>
     </tr>
     <tr>
-      <td>12</td>
       <td>gt368</td>
       <td>0.217312</td>
     </tr>
     <tr>
-      <td>2</td>
       <td>15g</td>
       <td>0.217860</td>
     </tr>
     <tr>
-      <td>9</td>
       <td>dr650r</td>
       <td>0.286557</td>
     </tr>
@@ -517,60 +508,49 @@ display(td05_avg_maxlag.head(top))
 Top 10 td05 turbos:
 <table border="1" class="dataframe half">
   <thead>
-    <tr style="text-align: right;">
-      <th></th>
+    <tr>
       <th>turbo</th>
       <th>max_jump</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>4</td>
       <td>GT28RS</td>
       <td>0.157058</td>
     </tr>
     <tr>
-      <td>13</td>
       <td>frank 50 custom</td>
       <td>0.231272</td>
     </tr>
     <tr>
-      <td>0</td>
       <td>14b</td>
       <td>0.238722</td>
     </tr>
     <tr>
-      <td>5</td>
       <td>GT3076R</td>
       <td>0.301879</td>
     </tr>
     <tr>
-      <td>16</td>
       <td>t2s</td>
       <td>0.307815</td>
     </tr>
     <tr>
-      <td>2</td>
       <td>5027s</td>
       <td>0.310863</td>
     </tr>
     <tr>
-      <td>3</td>
       <td>6765r</td>
       <td>0.312803</td>
     </tr>
     <tr>
-      <td>6</td>
       <td>GT3251</td>
       <td>0.330261</td>
     </tr>
     <tr>
-      <td>11</td>
       <td>evo3 16g</td>
       <td>0.330919</td>
     </tr>
     <tr>
-      <td>8</td>
       <td>dr1000</td>
       <td>0.344211</td>
     </tr>
