@@ -30,6 +30,7 @@ github_username:  flexadecimal
 # Build settings
 theme: minima
 plugins:
+  - jekyll-liquify
   - jekyll-feed
   - jekyll-katex
 
@@ -57,9 +58,4 @@ exclude:
   - static/*.md
   
 # simple slug permalink structure:
-permalink: /blog/:slug:output_ext
-
-# for katex math
-markdown: kramdown
-kramdown:
-    math_engine: katex
+permalink: /:collection/:slug:output_ext

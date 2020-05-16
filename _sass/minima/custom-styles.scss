@@ -1,0 +1,55 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+@charset "utf-8";
+
+/* jupyter pandas dataframe styling */
+.dataframe tbody tr th:only-of-type {
+  vertical-align: middle;
+}
+
+.dataframe tbody tr th {
+  vertical-align: top;
+}
+
+.dataframe thead th {
+  text-align: left;
+}
+  
+.dataframe {
+  width: 100%;
+}
+
+/* table of contents styling */
+.toc {
+  border: 2px solid;
+  border-color: $border-color-02;
+  background-color: $table-zebra-color;
+  margin-top: 2.5%;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 2.5%;
+  padding: 2.5%;
+}
+.toc ul, .toc li, .toc ul li {
+  list-style: none !important;
+}
+.toc_title {
+  font-weight: bold;
+}
+
+/* figures and figcaptions */
+figure {
+  text-align: center;
+  border: 2px solid;
+  border-color: $border-color-02;
+}
+figure img {
+  width: 100%;
+}
+figure figcaption {
+  font-style: italic;
+  background-color: $brand-color-dark;
+  color: $background-color;
+  padding: 1%;
+}
