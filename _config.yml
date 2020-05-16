@@ -22,7 +22,7 @@ title: David Kotaev
 email: davidkotaev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site of David Kotaev
-baseurl: "/~dsk43/" # the subpath of your site, e.g. /blog
+baseurl: "/~dsk43" # the subpath of your site, e.g. /blog
 url: "https://web.njit.edu" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  flexadecimal
@@ -31,6 +31,7 @@ github_username:  flexadecimal
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-katex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,3 +55,8 @@ plugins:
 
 exclude:
   - static/*.md
+  
+# for katex math
+markdown: kramdown
+kramdown:
+    math_engine: katex

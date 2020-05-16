@@ -122,6 +122,9 @@ GEM
     jekyll-github-metadata (2.13.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
+    jekyll-katex (1.0.0)
+      execjs (~> 2.7)
+      jekyll (>= 3.6, < 5.0)
     jekyll-mentions (1.5.1)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -253,7 +256,7 @@ DEPENDENCIES
   github-pages (~> 204)
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.12)
-  jekyll-relative-links
+  jekyll-katex
   jekyll-watch
   minima (~> 2.5)
   tzinfo (~> 1.2)
